@@ -12,11 +12,11 @@
 		}
 	],
 	"require": {
-		"php": ">=5.3.1",
-		"nette/application": "~2.0",
-		"nette/di": "~2.0",
-		"nette/http": "~2.0",
-		"nette/reflection": "~2.0"
+		"php": "8.*",
+		"nette/application": "3.*",
+		"nette/di": "3.*",
+		"nette/http": "3.*",
+		"nette/reflection": "3.*"
 	},
 	"autoload": {
 		"classmap": ["src/"]
